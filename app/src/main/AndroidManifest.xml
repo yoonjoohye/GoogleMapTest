@@ -20,6 +20,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />//처음으로 시작되는 액티비티(LAUNCHER)
             </intent-filter>
         </activity>
+        <meta-data android:name="com.google.android.maps.v2.API_key" android:value="AIzaSyAuqI1CzXqavjqePe3KRrnp2ocMcpnLkds"/>
     </application>
-
 </manifest>
